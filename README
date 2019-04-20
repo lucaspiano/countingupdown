@@ -1,0 +1,12 @@
+#COUNTINGUPDOWN 
+
+CountingUpDown Project is a very basic and simple software written in one single Java class
+that recursively counts up and down a value from a start entry point until a specific limit value
+using recursion and printing the respective values on the screen.
+ 
+# Contributing
+For any questions, please email Lucas Abrão (lucaspiano@gmail.com).
+
+Please make sure to update tests as appropriate.
+ 
+ 
